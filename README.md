@@ -1,7 +1,7 @@
 <img src="https://github.com/reblake/reblake/blob/master/2805189-orig-1066x800%20(2).jpg" width="99%">
 <p align='center'>
-<a href="https://www.researchgate.net/profile/Rachael_Blake4"><img height="30" src="https://github.com/reblake/reblake/blob/main/icon/researchgate.png?raw=true"></a>
-<a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><img height="30" src="https://github.com/reblake/reblake/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.researchgate.net/profile/Rachael_Blake4"><img height="30" src="https://github.com/reblake/reblake/blob/main/icon/researchgate-ogo.jpg?raw=true"></a>
+<a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><img height="30" src="https://github.com/reblake/reblake/blob/main/icon/linkedin-gray.jpg?raw=true"></a>
 </p>
 
 
