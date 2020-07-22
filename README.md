@@ -2,8 +2,8 @@
 <p align='center'>
 <!--<a href="https://www.researchgate.net/profile/Rachael_Blake4"><span class="socicon socicon-linkedin"></span></a>
 <a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><link rel="stylesheet" href="https://s3.amazonaws.com/icomoon.io/114779/Socicon/style.css?u8vidh"></a> -->
-<a href="https://www.researchgate.net/profile/Rachael_Blake4"><img height="30" src="https://github.com/reblake/reblake/blob/master/researchgate-brands.svg?raw=true"></a> 
-<a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><img height="30" src="https://github.com/reblake/reblake/blob/master/linkedin-brands.svg?raw=true"></a>
+<a href="https://www.researchgate.net/profile/Rachael_Blake4"><img height="50" src="https://github.com/reblake/reblake/blob/master/researchgate-brands.svg?raw=true"></a> 
+<a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><img height="50" src="https://github.com/reblake/reblake/blob/master/linkedin-brands.svg?raw=true"></a>
 </p>
 
 
