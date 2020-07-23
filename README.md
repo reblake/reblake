@@ -1,9 +1,10 @@
-<img src="https://github.com/reblake/reblake/blob/master/2805189-orig-1066x800%20(2).jpg" width="99%">
+<img src="https://github.com/reblake/reblake/blob/master/My_Banner.png" width="99%">
 <p align='center'>
 <!--<a href="https://www.researchgate.net/profile/Rachael_Blake4"><span class="socicon socicon-linkedin"></span></a>
 <a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><link rel="stylesheet" href="https://s3.amazonaws.com/icomoon.io/114779/Socicon/style.css?u8vidh"></a> -->
+<a href="https://github.com/reblake"><img height="50" src="https://github.com/reblake/reblake/blob/master/github-line.png?raw=true"></a> 
 <a href="https://www.researchgate.net/profile/Rachael_Blake4"><img height="50" src="https://github.com/reblake/reblake/blob/master/researchgate-brands.svg?raw=true"></a> 
-<a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><img height="50" src="https://github.com/reblake/reblake/blob/master/linkedin-brands.svg?raw=true"></a>
+<a href="http://www.linkedin.com/in/rachael-e-blake-301949152"><img height="50" src="https://github.com/reblake/reblake/blob/master/linkedin-line.png?raw=true"></a>
 </p>
 
 
