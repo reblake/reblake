@@ -8,7 +8,7 @@
 </p>
 
 
-I'm a quantitative marine ecologist. My research focuses on biodiversity, community structure, and the impacts of multiple stressors in marine ecosystems. I also study how changes in these ecosystems influence social and ecological well-being. I use data synthesis as well as field and lab experiments to test assumptions and hypotheses. I'm interested in furthering open science and use data science tools to improve workflows and reproducibility.
+My work uses data science methods and tools to test assumptions and improve workflows, in order to find solutions to social environmental problems.  I'm interested in furthering open science through increasing scientific reproducibility and data transparency.  My ecological research focuses on biodiversity, community structure, and the impacts of multiple stressors in marine ecosystems, and how changes in these ecosystems influence social and ecological well-being.   
 
 <!--
 **reblake/reblake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
